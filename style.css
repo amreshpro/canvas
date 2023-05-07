@@ -6,4 +6,5 @@ canvas{
     border : 2px solid grey;
     height: 100%;
     width: 100%;
+    background-color: azure;
 }
